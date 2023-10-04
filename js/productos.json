@@ -1,0 +1,32 @@
+[  
+    {
+        "id": "pintura-01",
+        "titulo": "Kit de Acuarela Matheic",
+        "imagen": "./img/pinturas/01.jpg",
+        "categoria": {
+            "nombre": "Pinturas",
+            "id": "pinturas"
+        },
+        "precio": 50000
+    },
+    {
+        "id": "dibujo-01",
+        "titulo": "Lapices Evo 2 Matheic",
+        "imagen": "./img/dibujos/01.jpg",
+        "categoria": {
+            "nombre": "Dibujos",
+            "id": "Dibujos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "escultura-01",
+        "titulo": "Cincel Matheic 2.0",
+        "imagen": "./img/esculturas/01.jpg",
+        "categoria": {
+            "nombre": "Escultura",
+            "id": "Escultura"
+        },
+        "precio": 20000
+    }
+]
